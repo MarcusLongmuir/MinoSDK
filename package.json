@@ -1,0 +1,10 @@
+{
+    "name": "minosdk",
+    "version": "0.0.1",
+    "description": "MinoDB Node SDK",
+    "main": "./lib/minodb.js",
+    "dependencies": {
+        "request": "*",
+        "tracer": "*"
+    }
+}
