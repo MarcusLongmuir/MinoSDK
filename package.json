@@ -2,7 +2,7 @@
     "name": "minosdk",
     "version": "0.0.1",
     "description": "MinoDB Node SDK",
-    "main": "./lib/minodb.js",
+    "main": "./lib/minosdk.js",
     "dependencies": {
         "request": "*",
         "tracer": "*"
