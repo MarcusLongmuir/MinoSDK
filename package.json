@@ -5,6 +5,7 @@
     "main": "./lib/minosdk.js",
     "dependencies": {
         "request": "*",
-        "tracer": "*"
+        "tracer": "*",
+    	"mino-logger": "Mino/mino-logger#ae618f4780dac8c0beb5ee0e035fb5ec2917f6c6"
     }
 }
